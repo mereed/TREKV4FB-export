@@ -1,0 +1,66 @@
+<svg>
+  
+  <image href="bg4.png" />
+
+  <svg>
+    <image id="icon" href="unknown.png" x="250" y="15" width="40" height="40" />
+    <text id="temp" class="sideBarSmall"  x="344" y="48" />  
+    <text id="batterytext" class="smalltext" x="99%" y="46%"/>
+   </svg>
+  
+  <svg>
+    <image id="separator" href="separator.png" x="130" y="24" width="11" height="95" />
+    <image id="hours1" href="0.png" x="58" y="20" width="34" height="94" />
+    <image id="hours2" href="0.png" x="92" y="20" width="34" height="94" />
+    <image id="mins1" href="0.png" x="147" y="20" width="34" height="94" />
+    <image id="mins2" href="0.png" x="181" y="20" width="34" height="94" />
+  </svg>
+ <!--
+   <svg>
+    <image id="heart" href="tinyheartonly.png" x="217" y="195" width="15" height="13" display="none" />
+    <animate attributeName="opacity" begin="load;enable" repeatCount = "indefinite" from="1" to="0" dur="2" final="restore" />
+  </svg>
+  -->
+  <svg>
+    
+    <image id="heart" href="heart.png" x="182" y="197" width="45" height="15" display="none" />
+    <image id="tinyheart" href="tinyheartonly.png" x="217" y="195" width="15" height="13" display="none" />
+ 
+    
+    <image id="hrm0" href="md-0.png" x="175" y="203" width="13" height="29" display="none" />
+    <image id="hrm1" href="md-0.png" x="189" y="203" width="13" height="29" display="none" />
+    <image id="hrm2" href="md-0.png" x="203" y="203" width="13" height="29" display="none" />
+
+  </svg>
+  
+  <svg>
+    <image href="dot.png" x="279" y="161" width="7" height="7" />
+    <image href="dot.png" x="312" y="161" width="7" height="7" />
+    <image id="day" href="sun.png" x="90" y="140" width="122" height="29" />
+    <image id="month" href="jan.png" x="280" y="140" width="35" height="29" />
+    <image id="date1" href="md-0.png" x="319" y="140" width="13" height="29" />
+    <image id="date2" href="md-0.png" x="332" y="140" width="13" height="29" />
+  </svg>
+  
+  <svg>
+    <image id="nosteps" href="nosteps2.png" x="36" y="199" width="106" height="41" display="none" />
+    <image id="step0" href="md-0.png" x="55" y="203" width="13" height="29" display="none" />
+    <image id="step1" href="md-0.png" x="68" y="203" width="13" height="29" display="none" />
+    <image id="step2" href="md-0.png" x="81" y="203" width="13" height="29" display="none" />
+    <image id="step3" href="md-0.png" x="94" y="203" width="13" height="29" display="none" />
+    <image id="step4" href="md-0.png" x="107" y="203" width="13" height="29" display="none" />
+  </svg>
+  
+  <svg>
+    <image id="year1" href="md-0.png" x="227" y="140" width="13" height="29" />
+    <image id="year2" href="md-0.png" x="240" y="140" width="13" height="29" />
+    <image id="year3" href="md-0.png" x="253" y="140" width="13" height="29" />
+    <image id="year4" href="md-0.png" x="266" y="140" width="13" height="29" />
+  </svg>
+    
+    <!--   battery -->
+<!--    <rect x="252" y="93" width="46" height="22" fill="white" /> -->
+    <rect id="batteryBackground" x="253" y="94" width="44" height="20" fill="dimgrey" />
+    <rect id="batteryBar" x="253" y="94" width="0" height="20" fill="white" />
+  
+</svg>

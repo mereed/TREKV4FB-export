@@ -1,0 +1,36 @@
+text     {
+  font-size: 36;
+  font-family: Tungsten-Medium;
+  font-weight: regular;
+  y: 12;
+  text-anchor: end;
+  text-length: 32;
+  fill: white;
+}
+
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+.sideBarSmall {
+  font-size: 36;
+  font-family: Tungsten-Medium;
+  font-weight: regular;
+
+  text-length: 32;
+  text-anchor: end;
+  fill: white;
+}
+
+.smalltext     {
+  font-size: 30;
+  font-family: Tungsten-Medium;
+  font-weight: regular;
+  fill: white;
+  text-anchor: end;
+  text-length: 32;
+}
+

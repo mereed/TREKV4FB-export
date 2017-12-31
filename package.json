@@ -1,0 +1,51 @@
+{
+  "fitbit": {
+    "appUUID": "b5fd0d02-fbf2-49b9-a112-16d35cd8e060",
+    "appType": "clockface",
+    "appDisplayName": "TREKV4FB",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffeb3b",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "access_heart_rate",
+      "access_location",
+      "access_internet"
+    ],
+    "i18n": {
+      "en": {
+        "name": "TREKV4FB"
+      },
+      "de": {
+        "name": "TREKV4FB"
+      },
+      "es": {
+        "name": "TREKV4FB"
+      },
+      "fr": {
+        "name": "TREKV4FB"
+      },
+      "it": {
+        "name": "TREKV4FB"
+      },
+      "ja": {
+        "name": "TREKV4FB"
+      },
+      "ko": {
+        "name": "TREKV4FB"
+      },
+      "nl": {
+        "name": "TREKV4FB"
+      },
+      "sv": {
+        "name": "TREKV4FB"
+      },
+      "zh-cn": {
+        "name": "TREKV4FB"
+      },
+      "zh-tw": {
+        "name": "TREKV4FB"
+      }
+    }
+  }
+}
